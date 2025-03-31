@@ -3,7 +3,7 @@
 --cor-de-fundo: #b44949;
 --cor-cabecalho: #FFFFFF;
 }
-body{
+.body{
 background-color: var(--cor-de-fundo);
 margin: 0;
 }
