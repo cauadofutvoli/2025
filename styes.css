@@ -3,7 +3,13 @@
 --cor-de-fundo: #b44949;
 --cor-cabecalho: #FFFFFF;
 }
+
 body{
-background-color: var(--cor-de-fundo);
-margin: 0;
+    background-color: var(--cor-de-fundo);
+    margin: 0;
+}
+
+header {
+    background-color: var(--cor-cabecalho); 
+    padding: 1em;
 }
